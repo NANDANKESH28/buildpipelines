@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.jetbrains.teamcity</groupId>
-	<artifactId>authorization-service</artifactId>
+	<artifactId>calculator-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>authorization-service</name>
-	<description>Authorization MIcroservice</description>
+	<name>calculator-service</name>
+	<description>Calculator Microservice</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
